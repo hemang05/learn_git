@@ -1,5 +1,5 @@
 def git_learn():
 	print('yeah start your git learning hemang')
-	print('editted by hemang_ui')
+	print('editted to hemang_ui')
 	
 git_learn()
